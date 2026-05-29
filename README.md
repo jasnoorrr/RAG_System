@@ -159,5 +159,3 @@ Focus: retrieval robustness under distractor pressure and corrective retrieval s
 ## Team
 
 Built collaboratively by **Jasnoor K. Batra**, **Nainpreet Kaur**, **Sangita Paudel** as part of CPSC 461 — Applied Machine Learning at UNBC (Winter 2026).
-
-[Jasnoor's LinkedIn](https://www.linkedin.com/in/jasnoor-batra) | [Jasnoor's GitHub](https://github.com/jasnoorrr)
